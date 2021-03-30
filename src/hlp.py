@@ -1,2 +1,3 @@
-s='ab.txt'
-print(s[:-4])
+import numpy as np 
+
+print('exp(1000) =', np.exp(1000))
